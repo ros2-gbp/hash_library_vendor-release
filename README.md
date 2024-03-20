@@ -1,3 +1,26 @@
+## hash_library_vendor (rolling) - 0.1.1-6
+
+The packages in the `hash_library_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling hash_library_vendor` on `Wed, 20 Mar 2024 17:19:07 -0000`
+
+The `hash_library_vendor` package was released.
+
+Version of package(s) in repository `hash_library_vendor`:
+
+- upstream repository: https://github.com/tier4/hash_library_vendor.git
+- release repository: https://github.com/ros2-gbp/hash_library_vendor-release.git
+- rosdistro version: `0.1.1-5`
+- old version: `0.1.1-5`
+- new version: `0.1.1-6`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## hash_library_vendor (galactic) - 0.1.1-1
 
 The packages in the `hash_library_vendor` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --rosdistro galactic --track galactic hash_library_vendor -n` on `Wed, 15 Dec 2021 08:49:39 -0000`
