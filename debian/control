@@ -1,0 +1,12 @@
+Source: ros-jazzy-hash-library-vendor
+Section: misc
+Priority: optional
+Maintainer: Kenji Miyake <kenji.miyake@tier4.jp>
+Build-Depends: debhelper (>= 9.0.0), git, ros-jazzy-ament-cmake-auto, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-ament-lint-common <!nocheck>, ros-jazzy-ros-workspace
+Homepage: https://github.com/stbrumme/hash-library
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-hash-library-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-ros-workspace
+Description: ROS2 vendor package for stbrumme/hash-library
